@@ -2,7 +2,6 @@
 Austin Johnson
 Dr. Shaykhian
 03/02/25
-Here are the responses without dashes:  
 
 **How do I approach designing software?**  
 I approach software design by first identifying the project requirements and breaking them down into smaller, manageable components. From there, I outline a structure that considers both functionality and efficiency before starting implementation.  
